@@ -9,14 +9,14 @@
 ## Installation
 
 ```bash
-npm install vue-rollbar-ps --save
+npm install @perfect-space/vue-rollbar-ps --save
 ```
 
 ### Usage
 
 ```javascript
 var Vue = require('vue');
-var Rollbar = require('vue-rollbar');
+var Rollbar = require('@perfect-space/vue-rollbar-ps');
 
 Vue.use(Rollbar, {
   accessToken: 'YOUR_ROLLBAR_FRONT_TOKEN',
