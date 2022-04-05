@@ -27,7 +27,7 @@
     },
     "homepage": "https://github.com/Perfect-Space/vue-rollbar#readme",
     "dependencies": {
-        "rollbar": "^2.18.0"
+        "rollbar": "^2.24.1"
     },
     "devDependencies": {
         "@babel/core": "^7.10.5",
