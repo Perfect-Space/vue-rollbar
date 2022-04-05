@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-npm install vue-rollbar-ps --save
+npm install @perfect-space/vue-rollbar-ps --save
 ```
 
 ### Usage
