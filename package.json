@@ -1,6 +1,6 @@
 {
     "name": "@perfect-space/vue-rollbar-ps",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Rollbar plugin for Vue.js (forked and updated)",
     "main": "index.js",
     "scripts": {
