@@ -2,7 +2,6 @@
 
 [![npm (scoped with tag)](https://img.shields.io/npm/v/vue-rollbar-ps/latest.svg?style=flat-square)](https://npmjs.com/package/vue-rollbar-ps)
 [![npm](https://img.shields.io/npm/dt/vue-rollbar-ps.svg?style=flat-square)](https://npmjs.com/package/vue-rollbar-ps)
-[![Dependencies](https://david-dm.org/Zevran/vue-rollbar-ps/status.svg?style=flat-square)](https://david-dm.org/Zevran/vue-rollbar-ps)
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
 
 > Rollbar plugin for Vue.js
